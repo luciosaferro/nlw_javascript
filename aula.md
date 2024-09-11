@@ -49,6 +49,10 @@ Atributos e métodos
 Criação e manipulação de objetos
 Acesso a propriedades de objetos
 
-## Estrutura de repetição
+# Estrutura de repetição
 
 - while
+
+# Condicionais
+
+- switch
