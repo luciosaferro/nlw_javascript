@@ -34,8 +34,9 @@ Constantes
 
 ## Operadores
 
-- Operadores de atribuição de valor
-- Operador de concatenação
+- Operadores de atribuição de valor: =
+- Operador de concatenação: +
+- operadores de comparação: == != === < >
 
 ## Estruturas de dados:
 
